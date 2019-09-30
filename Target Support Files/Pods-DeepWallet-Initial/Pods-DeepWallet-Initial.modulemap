@@ -1,0 +1,6 @@
+framework module Pods_DeepWallet_Initial {
+  umbrella header "Pods-DeepWallet-Initial-umbrella.h"
+
+  export *
+  module * { export * }
+}
